@@ -1,0 +1,5 @@
+weight: 2
+name: "Emission Reduction Credits"
+icon: "fa fa-arrow-down"
+description: "An emission reduction credit (ERC) is a credit granted upon request by an emission source who voluntarily reduces emissions beyond required levels of control."
+url: "emission-reduction"

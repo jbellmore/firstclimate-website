@@ -1,0 +1,5 @@
+weight: 2
+name: "Voluntary Carbon"
+icon: "fa fa-leaf"
+description: "A form of emissions trading that countries utilize in order to meet their obligations to limit carbon dioxide. A country with greater emissions of carbon is able to purchase the right to emit additional carbon while a country with less emissions can trade the right to emit less. The Kyoto Protocol utilizes this method in order to meet carbon obligations."
+url: "voluntary-carbon"
