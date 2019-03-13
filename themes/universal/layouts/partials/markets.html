@@ -1,0 +1,33 @@
+{{ if isset .Site.Params "markets" }}
+{{ if .Site.Params.markets.enable }}
+{{ if gt (len .Site.Data.markets) 0 }}
+<section class="bar background-white" style="margin-bottom: 0; padding-top: 0; padding-bottom: 0;">
+    <div class="container">
+        <h2><center>Energy Markets:</center></h3>
+        <hr />
+        {{ range $index, $element := sort .Site.Data.markets "weight" }}
+		{{ if eq (mod $index 3) 0 }}
+		<div class="col-md-12">
+            <div class="row">
+		{{ end }}
+				<div class="col-md-4">
+                    <a href="{{ $element.url }}" style="text-decoration: none">
+                        <div class="box-simple">
+                            <div class="icon">
+                                <i class="{{ .icon }}"></i>
+                            </div>
+                            <h3>{{ $element.name }}</h3>
+                            <p>{{ $element.description | markdownify }}</p>
+                        </div>
+                    </a>
+                </div>
+		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.markets) 1 )) }}
+			</div>
+		</div>
+		{{ end }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
