@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https:/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:/categories/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:/faq/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/faq/</loc>
   </url>
   
   <url>
-    <loc>https:/tags/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https:/test/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/test/</loc>
   </url>
   
 </urlset>
