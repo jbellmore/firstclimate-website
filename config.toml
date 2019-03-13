@@ -1,5 +1,6 @@
-baseurl = "https://example.org"
-title = "Universal"
+publishDir = "docs"
+baseurl = "https://"
+title = "1st Climate Solutions"
 theme = "universal"
 languageCode = "en-us"
 # # Site language. Available translations in the theme's `/i18n` directory.
