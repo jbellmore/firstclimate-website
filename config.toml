@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "https://1stclimatesolutions.com"
+baseurl = "https://1stclimatesolutions.com/"
 title = "1st Climate Solutions"
 theme = "universal"
 languageCode = "en-us"
