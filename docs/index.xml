@@ -11,23 +11,46 @@
     
     
     <item>
-      <title>FAQ</title>
-      <link>https://jbellmore.github.io/firstclimate-website/faq/</link>
+      <title>Cap and Trade</title>
+      <link>https://jbellmore.github.io/firstclimate-website/cap-and-trade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jbellmore.github.io/firstclimate-website/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <guid>https://jbellmore.github.io/firstclimate-website/cap-and-trade/</guid>
+      <description>1st Climate Solutions currently has RECLAIM NOx and SOx Credits (RTCs) available.
+Reclaim Credits RECLAIM is a market trading program where participating facilities are required to meet targets for annual emission reductions of Nitrogen Oxides (NOx) and Sulfur Oxides (SOx). RECLAIM Trading Credits are a limited authorization to emit a fixed amount of NOx or SOx per year. Sources can buy or sell RTCs on the open market. There is a financial incentive to reduce air pollution since facilities that surpass their reduction targets can sell their surplus credits on the open market.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://jbellmore.github.io/firstclimate-website/test/</link>
+      <title>Contact Us</title>
+      <link>https://jbellmore.github.io/firstclimate-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jbellmore.github.io/firstclimate-website/test/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <guid>https://jbellmore.github.io/firstclimate-website/contact/</guid>
+      <description>For further information, credit availability and pricing please contact us!
+E-mail info@1stclimatesolutions.com
+Phone 413.448.1472
+Address 1st Climate Solutions 2 South Street Pittsfield, MA 01201</description>
+    </item>
+    
+    <item>
+      <title>Emission Reduction Credits (ERC)</title>
+      <link>https://jbellmore.github.io/firstclimate-website/emission-reduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbellmore.github.io/firstclimate-website/emission-reduction/</guid>
+      <description>1st Climate Solutions currently holds ERCs in the Los Angeles Air Basin, San Joaquin Valley Air Basin, and the Bay Area Air Basin.
+What are Emission Reduction Credits? An ERC is a credit earned by a company when it reduces air emissions beyond what is required by existing regulations. It is an asset that can be utilized by its owner or sold to another company that need emission offsets. An emission offset occurs when a company compensates for an increase in emissions in one area by decreasing emissions in another area.</description>
+    </item>
+    
+    <item>
+      <title>Voluntary Carbon Markets</title>
+      <link>https://jbellmore.github.io/firstclimate-website/voluntary-carbon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbellmore.github.io/firstclimate-website/voluntary-carbon/</guid>
+      <description>1st Climate Solutions currently holds credits from vintage years 2009 through 2018.
+Forestry Utilize carbon reduction strategies such as tree planting or improved forest management in order to increase the amount of carbon stored.
+Landfill Gas Projects Reduce the amount of greenhouse gases that would otherwise be released from the landfill by destroying methane through combustion in generators, using enclosed flares or the methane is cleaned and transported through natural gas pipelines.</description>
     </item>
     
   </channel>

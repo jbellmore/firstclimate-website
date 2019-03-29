@@ -8,12 +8,20 @@
   </url>
   
   <url>
+    <loc>https://jbellmore.github.io/firstclimate-website/cap-and-trade/</loc>
+  </url>
+  
+  <url>
     <loc>https://jbellmore.github.io/firstclimate-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jbellmore.github.io/firstclimate-website/faq/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jbellmore.github.io/firstclimate-website/emission-reduction/</loc>
   </url>
   
   <url>
@@ -22,7 +30,7 @@
   </url>
   
   <url>
-    <loc>https://jbellmore.github.io/firstclimate-website/test/</loc>
+    <loc>https://jbellmore.github.io/firstclimate-website/voluntary-carbon/</loc>
   </url>
   
 </urlset>
